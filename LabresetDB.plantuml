@@ -1,0 +1,3 @@
+@startuml TEST
+A -> B : Hello
+@enduml TEST
